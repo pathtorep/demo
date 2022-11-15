@@ -1,0 +1,1 @@
+import{bk as e,e as t,l as c}from"./index.f1304281.js";const s={},o={class:"text-h3 tex-secondary"};function n(r,a){return t(),c("div",o,"Text showed by default")}const d=e(s,[["render",n]]);export{d as default};

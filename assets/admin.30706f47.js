@@ -1,0 +1,1 @@
+import{bk as e,e as t,f as a,w as c,j as r,h as s}from"./index.f1304281.js";const o={};function n(f,_){return t(),a(r,{class:"text-h1 test-green-lighten-2 text-uppercase"},{default:c(()=>[s(" Welcome to Profile, admin ")]),_:1})}const i=e(o,[["render",n]]);export{i as default};

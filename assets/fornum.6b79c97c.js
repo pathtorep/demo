@@ -1,0 +1,1 @@
+import{bk as e,e as t,l as c}from"./index.f1304281.js";const s={},o={class:"text-h4 text-blue"};function n(r,a){return t(),c("div",o,"Path is NUMBER")}const f=e(s,[["render",n]]);export{f as default};
