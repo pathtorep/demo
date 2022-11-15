@@ -1,0 +1,1 @@
+import{bk as r,e,f as t,w as a,j as o,c}from"./index.f1304281.js";import{V as s}from"./VAlert.c0a2b4a7.js";const n={};function i(l,f){return e(),t(o,null,{default:a(()=>[c(s,{class:"pa-2",title:"Warning",text:"You should register for correctly work",icon:"mdi-icon",variant:"tonal"})]),_:1})}const u=r(n,[["render",i]]);export{u as default};

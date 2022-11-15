@@ -1,0 +1,1 @@
+import{bp as t,e as s,l as a,g as o,b9 as r,a1 as n,h as c}from"./index.f1304281.js";const i={class:"text-h1 text-red-lighten-2"},_={class:"text-h3 text-grey-lighten-2"},p={__name:"notFound",setup(u){const e=t();return(d,l)=>(s(),a("div",i,[o("div",_,r(n(e).params),1),c(" No Such Sites is found !!! ")]))}};export{p as default};

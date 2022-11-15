@@ -1,0 +1,1 @@
+import{bk as t,b as o,e as a,f as r,w as s,j as c,h as n,c as _,g as l}from"./index.f1304281.js";const u={},d=l("br",null,null,-1);function f(p,x){const e=o("router-view");return a(),r(c,{class:"text-h2"},{default:s(()=>[n(" Example of the Routes"),d,_(e)]),_:1})}const m=t(u,[["render",f]]);export{m as default};
