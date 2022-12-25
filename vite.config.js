@@ -25,6 +25,12 @@ export default ({ mode }) => {
         //     }
         // },
         base: '/',
+        server:{
+            port: 1111
+        },
+        preview: {
+            port: 1111
+        },
         // logLevel: 'silent',
         // preview: {
         //     port: '1111'
